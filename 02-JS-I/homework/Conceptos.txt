@@ -1,0 +1,7 @@
+Variable: Es un cerebebro capaz de almacenar informacion que se necesitará despues. 
+String: Es un cojunto de palabras las cuales se beben escribir dentro de comillas.
+Funciones (Argunmentos y return): 
+- Argumentos: Estos son capaces de asignar cirto hecho a lo que se imprima despues. 
+-Return: Es un valor dado por el descenlase de una función. 
+Declaraciones if: La declaración if identifica y controla determinada funcion para afirma o negar. 
+Valores voleanos (True, false): Estos son indicadores de un descenlase de una función, lo que hacen estos indicadores es que si lo que se se argumento en la funcion es verdadero hace visible el codigo y si no salto un error. 
