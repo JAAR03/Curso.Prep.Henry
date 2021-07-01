@@ -1,0 +1,4 @@
+1. For: Es un camando que será capaz de reptir tareas sin necesidad de muchos algoritmios. 
+2. &&: Esté comando evaluará expresiones que sean de iguales si lo son respondera con true y de lo contrario con false.
+3. ||: Es ajustado para que que si ambas expresiones son distintas responderá con un true y si hay alguna igual con false. 
+4. !: Esto negará el valor original de la funcion si por ejemplo era true lo negará con un false. 
