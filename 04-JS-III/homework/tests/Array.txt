@@ -1,0 +1,1 @@
+Array: Es un comando con el cual se pueden hacer arreglos en la funcion, los cuales permirtiran una fluides optima y menor cadad de texto 
